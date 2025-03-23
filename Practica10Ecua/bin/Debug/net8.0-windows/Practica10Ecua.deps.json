@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practica10Ecua/1.0.0": {
+        "runtime": {
+          "Practica10Ecua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica10Ecua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
