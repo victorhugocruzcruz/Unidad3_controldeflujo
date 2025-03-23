@@ -1,0 +1,17 @@
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.Form1.resources
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.Properties.Resources.resources
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.csproj.GenerateResource.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.AssemblyInfoInputs.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.AssemblyInfo.cs
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.csproj.CoreCompileInputs.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\bin\Debug\net8.0-windows\practica4.exe
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\bin\Debug\net8.0-windows\practica4.deps.json
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\bin\Debug\net8.0-windows\practica4.runtimeconfig.json
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\bin\Debug\net8.0-windows\practica4.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\bin\Debug\net8.0-windows\practica4.pdb
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\refint\practica4.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.pdb
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\practica4.genruntimeconfig.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica4\obj\Debug\net8.0-windows\ref\practica4.dll
