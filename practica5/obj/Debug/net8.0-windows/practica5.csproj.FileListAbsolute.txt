@@ -1,0 +1,17 @@
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\bin\Debug\net8.0-windows\practica5.exe
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\bin\Debug\net8.0-windows\practica5.deps.json
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\bin\Debug\net8.0-windows\practica5.runtimeconfig.json
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\bin\Debug\net8.0-windows\practica5.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\bin\Debug\net8.0-windows\practica5.pdb
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practirca5.Form1.resources
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.Properties.Resources.resources
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.csproj.GenerateResource.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.AssemblyInfoInputs.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.AssemblyInfo.cs
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.csproj.CoreCompileInputs.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\refint\practica5.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.pdb
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\practica5.genruntimeconfig.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica5\obj\Debug\net8.0-windows\ref\practica5.dll
