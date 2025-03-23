@@ -1,0 +1,17 @@
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\bin\Debug\net8.0-windows\practica2.exe
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\bin\Debug\net8.0-windows\practica2.deps.json
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\bin\Debug\net8.0-windows\practica2.runtimeconfig.json
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\bin\Debug\net8.0-windows\practica2.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\bin\Debug\net8.0-windows\practica2.pdb
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\pracatica2.Form1.resources
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.Properties.Resources.resources
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.csproj.GenerateResource.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.AssemblyInfoInputs.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.AssemblyInfo.cs
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.csproj.CoreCompileInputs.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\refint\practica2.dll
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.pdb
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\practica2.genruntimeconfig.cache
+C:\Users\Victor Hugo\Documents\Documentos hugo\Programacion\unidad 2\visual stude\practica2\obj\Debug\net8.0-windows\ref\practica2.dll
